@@ -1,0 +1,12 @@
+buatlah dulu data base mysql, harap di ingat data basenya jangan disamain punyaku ya!
+saolnya nanti id nya penuh.
+
+folder tpmuser dipindahkan ke C:\xampp\htdocs
+
+nanti nama folder tpmusernya juga diganti, nah didalam tpmuser itu ada code php,
+nanti sesuaikan dengan database kalian.
+
+selebihnya tinggal di edit sesuka hati.
+
+note:
+*apk ini jangan disalah gunakan ya!
